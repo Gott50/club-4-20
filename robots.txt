@@ -1,0 +1,16 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /404
+Disallow: /datenschutz
+Disallow: /impressum
+
+# GPTBot
+User-agent: GPTBot
+Disallow: /
+
+# Host
+Host: https://www.cannabisclub-muenchen.com
+
+# Sitemaps
+Sitemap: https://www.cannabisclub-muenchen.com/sitemap.xml

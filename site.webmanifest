@@ -1,0 +1,12 @@
+{
+  "short_name": "Club420",
+  "name": "Club420",
+  "icons": [{
+    "src": "/jpg/ou3npl4tlmcpcffxjdiai2qik.jpg",
+    "type": "image/jpeg",
+    "sizes": "1152x1152"
+  }],
+  "start_url": "/?utm_source=homescreen",
+  "background_color": "#fafafa",
+  "theme_color": "#fafafa"
+}

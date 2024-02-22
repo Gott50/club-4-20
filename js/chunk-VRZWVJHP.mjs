@@ -1,0 +1,2 @@
+function e(t,a){return{description:"Club420 hilft Cannabis Social Clubs b\xFCrokratische H\xFCrden zu \xFCberwinden und stellt wichtige Vorlagen und Tools zum Mitglieder- und Zahlungsmanagement bereit",favicon:"https://framerusercontent.com/images/OU3NPL4tLMCPcfFxjDIAi2qIk.jpg",socialImage:"https://framerusercontent.com/images/ldVIjPd0ERaYBiOaM9Y8I6nRfnQ.jpg",title:"Club420 | Der Club f\xFCr Cannabis Clubs"}}export{e as a};
+//# sourceMappingURL=chunk-VRZWVJHP.mjs.map
