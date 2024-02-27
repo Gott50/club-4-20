@@ -1,0 +1,2 @@
+import{a as t}from"./chunk-VRZWVJHP.mjs";function r(e,a){return{bodyClassName:"framer-body-GNKPVrOEp",breakpoints:[{hash:"38ow8y"}],description:t(e,a).description,elements:{ElKlXAEWD:"hero"},title:t(e,a).title||"Csc Ressourcen",viewport:"width=1200"}}var p=1,d={exports:{default:{type:"function",annotations:{framerContractVersion:"1"}},metadataVersion:{type:"variable",annotations:{framerContractVersion:"1"}},__FramerMetadata__:{type:"variable"}}};export{r as a,p as b,d as c};
+//# sourceMappingURL=chunk-DMFDJ5YP.mjs.map
