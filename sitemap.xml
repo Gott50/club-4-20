@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://club-4-20.com/archive</loc>
-  </url>
-  <url>
-    <loc>https://club-4-20.com/blog</loc>
-  </url>
-  <url>
     <loc>https://club-4-20.com/please-confirm</loc>
   </url>
   <url>
@@ -19,12 +13,6 @@
     <loc>https://club-4-20.com/404</loc>
   </url>
   <url>
-    <loc>https://club-4-20.com/csc-ressourcen</loc>
-  </url>
-  <url>
-    <loc>https://club-4-20.com/blog-grid</loc>
-  </url>
-  <url>
     <loc>https://club-4-20.com/confirmed-document-request</loc>
   </url>
   <url>
@@ -32,9 +20,6 @@
   </url>
   <url>
     <loc>https://club-4-20.com/please-confirm-document-request</loc>
-  </url>
-  <url>
-    <loc>https://club-4-20.com/saved-for-later</loc>
   </url>
   <url>
     <loc>https://club-4-20.com/document-request</loc>
