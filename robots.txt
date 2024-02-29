@@ -1,9 +1,12 @@
 # *
 User-agent: *
-Disallow: /
 Disallow: /404
 Disallow: /datenschutz
 Disallow: /impressum
+Disallow: /confirmed
+Disallow: /confirmed-document-request
+Disallow: /please-confirm
+Disallow: /please-confirm-document-request
 
 # GPTBot
 User-agent: GPTBot
